@@ -1,8 +1,20 @@
-# Luzefik
-Hello there, I'm Andrii, aka Luzefik 
+# Hi, I'm Andrii Kulbaba (@Luzefik) 🇺🇦
+**Robotics| CS Student at UCU**
 
-💻 My heart beats in binary! I'm a Computer Science student diving headfirst into programming, not just as a study but as a way of life! It's like unlocking a superpower, and I'm trying to find where it fits best in my story. 😄 You know what else gets my circuits buzzing? Brainstorming with others! Every conversation is like a mini-explosion of new ideas 💡💥 – it's pure magic!
+I specialize in designing autonomous robotic systems and embedded firmware. My engineering focus lies at the intersection of hardware and software—building systems capable of exploring land, air, and space in the future.
 
-When I'm not coding up a storm ⛈️, you can find me lost in the pages of a good book 📚, strategizing my way to victory in a 4X or RTS game 🎮, enjoying a refreshing walk 🚶, or maybe even cycling my way to the nearest delicious snack 🚴💨.
+### What I do
+* **Embedded & Robotics:** Developing C++ firmware, working with ESP-IDF & FreeRTOS for dual-core task scheduling, and testing swarm intelligence algorithms.
 
-And hey, if you ever want to chat about the fluffiest, most adorable creatures on four legs... Corgis, of course! 🐕 Let's grab a virtual coffee (or maybe a real one sometime?) and dive into the world of those delightful loaves of bread with legs! ☕ Let the Corgi conversation flow! 🥳
+### Tech Stack
+* **Languages:** C++, Python, SQL, Go
+* **Embedded:** ESP-IDF, FreeRTOS, ESP32-S3
+* **Backend & DB:** FastAPI, PostgreSQL, SQLAlchemy, Docker
+* **Tools & OS:** Git, Linux, Figma
+
+### Currently Working On
+* Testing ground-based robot fleets for swarm intelligence validation.
+* Diving deep into Advanced Calculus and Linear Algebra for Unreal Engine aerodynamics simulations.
+* Exploring FPV drone mechanics and control systems.
+---
+ [LinkedIn](https://www.linkedin.com/in/andrii-kulbaba-a8b4462b9/)
